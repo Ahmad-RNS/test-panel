@@ -1,6 +1,7 @@
 {
-  "name": "test-panel",
-  "version": "0.1.0",
+  "name": "test-admin-panel",
+  "version": "0.3.0",
+  "bin": "./bin/cli.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
